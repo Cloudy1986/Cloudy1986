@@ -2,7 +2,7 @@
 
 - 👀 Looking for my first full stack Junior Developer role!
 - 💻 Recently graduated from the [Makers Academy Bootcamp](https://blog.makersacademy.com/)
-- 👨‍💻 Previously 10 years working in Product Management roles
+- 👨‍💻 Previously 10 years working in Product Management roles at the Government Digital Service in the [GOV.UK](https://www.gov.uk/) team
 - 🇬🇧 UK based
 - 🙂 Please see [my CV here](https://github.com/Cloudy1986/mark-mcleod-cv)
 
